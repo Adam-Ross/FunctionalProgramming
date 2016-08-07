@@ -3,7 +3,7 @@ var animals = [
   { name: 'Mike', species: 'cat' },
   { name: 'Trudy', species: 'rabbit' },
   { name: 'Marty', species: 'dog' },
-  { name: 'Justin', species: 'dog' },
+  { name: 'Justin', species: 'dog' }
 ]
 
 // without map, just using a for loop
