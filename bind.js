@@ -10,7 +10,7 @@ var animals = [
 
 var names = [];
 for (var i = 0; i < animals.length; i++) {
-  names.push(animals[i].name)
+  names.push(animals[i].name);
 }
 
 console.log(names)
